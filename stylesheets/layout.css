@@ -278,7 +278,10 @@ body.bio .one-third.column .column-content {
 	margin-left: 10px;
 	float: right;
 }
-
+.slides small {
+	display: block;
+	text-align: center;
+}
 .fashion-image > img {
 	max-width: 90%;
 	height: auto;
